@@ -1,1 +1,126 @@
-# Vintage-Analog-Clock
+# 🕰️ Vintage Analog Clock – Computer Graphics Project
+
+A classic analog clock built using Python + Pygame, featuring vintage Roman numerals, old-style colors, smooth clock-hand animation, and real-time date & time display right below the clock hands.
+
+This project is perfect for Computer Graphics, Mini Project, DAA / Python Lab, or a Portfolio Project.
+
+📸 Preview
+
+(Add your screenshot here once uploaded)
+
+![Analog Clock Screenshot](path/to/your/screenshot.png)
+
+✨ Features
+
+✔️ Real-time analog clock with hour, minute, and second hands
+✔️ Vintage look: Roman numerals, wooden border, parchment-style face
+✔️ Smooth second-hand movement
+✔️ Date & Time displayed neatly below the hands
+✔️ Fully customizable colors, fonts, styles
+✔️ Built using Python + Pygame
+✔️ Clean and readable source code
+
+🛠️ Technologies Used
+
+Python 3
+
+Pygame (graphics and rendering)
+
+Math & geometry for clock hand rotation
+
+Real-time system clock reading using datetime
+
+📦 Installation
+1️⃣ Install Python
+
+Download Python from:
+https://www.python.org/downloads/
+
+2️⃣ Install Pygame
+
+Open terminal / CMD:
+
+pip install pygame
+
+3️⃣ Clone the repository
+git clone https://github.com/your-username/analog-clock.git
+cd analog-clock
+
+▶️ Running the Clock
+
+Simply run:
+
+python analog_clock.py
+
+
+The clock window will open automatically.
+
+📂 Project Structure
+Analog-Clock/
+│
+├── analog_clock.py       # Main clock program
+├── README.md             # Project documentation
+└── screenshot.png        # (optional) clock preview image
+
+🎨 Customization
+
+You can easily modify:
+
+Clock background colors
+
+Roman numeral fonts
+
+Hand sizes & colors
+
+Date/time formatting
+
+Clock radius & style
+
+Inside the code, look for the CONFIG section:
+
+# CONFIG (OLD VINTAGE STYLE)
+WIDTH, HEIGHT = 600, 600
+CLOCK_RADIUS = 250
+BG_COLOR = (45, 30, 20)
+CLOCK_FACE_COLOR = (235, 220, 190)
+
+
+Change these values to match your desired look.
+
+🧠 How The Clock Works
+
+The clock uses trigonometry (sin, cos) to calculate the hand endpoints
+
+datetime.now() provides real-time system time
+
+Pygame renders shapes at 60 FPS for smooth movement
+
+Roman numerals and tick marks are drawn using loops and calculated angles
+
+📘 Topics Covered (For College Submission)
+
+This project demonstrates the following concepts:
+
+Computer Graphics fundamentals
+
+2D rendering
+
+Coordinate geometry
+
+Polar → Cartesian conversion
+
+Animation & frame refresh
+
+Event loops
+
+Real-time applications
+
+🙋 Author
+
+Sundaram Pandey
+(Replace with your username or GitHub link if needed)
+
+⭐ Show Your Support
+
+If you found this project useful:
+⭐ Give the repository a star on GitHub!
