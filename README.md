@@ -6,8 +6,6 @@ This project is perfect for Computer Graphics, Mini Project, DAA / Python Lab, o
 
 📸 Preview
 
-(Add your screenshot here once uploaded)
-
 ![Analog Clock Screenshot](screenshot.png)
 
 ✨ Features
@@ -43,7 +41,7 @@ Open terminal / CMD:
 pip install pygame
 
 3️⃣ Clone the repository
-git clone https://github.com/your-username/analog-clock.git
+git clone https://github.com/pandey-sundaram/analog-clock.git
 cd analog-clock
 
 ▶️ Running the Clock
@@ -60,7 +58,7 @@ Analog-Clock/
 │
 ├── analog_clock.py       # Main clock program
 ├── README.md             # Project documentation
-└── screenshot.png        # (optional) clock preview image
+└── screenshot.png        # clock preview image
 
 🎨 Customization
 
@@ -97,7 +95,7 @@ Pygame renders shapes at 60 FPS for smooth movement
 
 Roman numerals and tick marks are drawn using loops and calculated angles
 
-📘 Topics Covered (For College Submission)
+📘 Topics Covered
 
 This project demonstrates the following concepts:
 
@@ -117,8 +115,9 @@ Real-time applications
 
 🙋 Author
 
-Sundaram Pandey
-(Replace with your username or GitHub link if needed)
+Sundaram Pandey (1/23/SET/BCS/290)
+Satyam Mishra (1/23/SET/BCS/285)
+Kartik Sharma (1/23/SET/BCS/279)
 
 ⭐ Show Your Support
 
