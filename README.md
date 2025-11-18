@@ -8,7 +8,7 @@ This project is perfect for Computer Graphics, Mini Project, DAA / Python Lab, o
 
 (Add your screenshot here once uploaded)
 
-![Analog Clock Screenshot](path/to/your/screenshot.png)
+![Analog Clock Screenshot](screenshot.png)
 
 ✨ Features
 
