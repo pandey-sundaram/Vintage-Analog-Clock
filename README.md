@@ -115,9 +115,9 @@ Real-time applications
 
 🙋 Author
 
-Sundaram Pandey (1/23/SET/BCS/290) /n
-Satyam Mishra (1/23/SET/BCS/285) /n
-Kartik Sharma (1/23/SET/BCS/279) /n
+Sundaram Pandey (1/23/SET/BCS/290)
+Satyam Mishra (1/23/SET/BCS/285)
+Kartik Sharma (1/23/SET/BCS/279)
 
 ⭐ Show Your Support
 
