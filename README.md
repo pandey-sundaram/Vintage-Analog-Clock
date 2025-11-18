@@ -41,8 +41,8 @@ Open terminal / CMD:
 pip install pygame
 
 3️⃣ Clone the repository
-git clone https://github.com/pandey-sundaram/analog-clock.git
-cd analog-clock
+git clone https://github.com/pandey-sundaram/Vintage-Analog-Clock.git
+cd Vintage-Analog-Clock
 
 ▶️ Running the Clock
 
@@ -54,7 +54,7 @@ python analog_clock.py
 The clock window will open automatically.
 
 📂 Project Structure
-Analog-Clock/
+Vintage-Analog-Clock/
 │
 ├── analog_clock.py       # Main clock program
 ├── README.md             # Project documentation
