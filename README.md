@@ -2,7 +2,6 @@
 
 A classic analog clock built using Python + Pygame, featuring vintage Roman numerals, old-style colors, smooth clock-hand animation, and real-time date & time display right below the clock hands.
 
-This project is perfect for Computer Graphics, Mini Project, DAA / Python Lab, or a Portfolio Project.
 
 📸 Preview
 
